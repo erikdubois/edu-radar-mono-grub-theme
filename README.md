@@ -12,6 +12,10 @@ git clone --depth 1 https://github.com/erikdubois/radar-grub-theme.git && cd rad
 sudo python3 radar-theme.py --install
 ```
 
+created fonts with this code
+
+```sudo grub-mkfont -s 28 -o /home/erik/Desktop/DroidSans-Bold-28.pf2 /usr/share/fonts/droid/DroidSans-Bold.ttf
+```
 
 Copyright at the end of this file
 
