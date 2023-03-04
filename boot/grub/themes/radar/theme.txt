@@ -15,9 +15,9 @@ terminal-box: "menu_bkg_*.png"
     width = 50%
     top = 30%
     height = 40%
-    item_font = "Unifont Regular 16"
+    item_font = "Droid Sans Bold 16"
     item_color = "#6b6b6b"
-    selected_item_font = "Unifont Regular 16"
+    selected_item_font = "Droid Sans Bold 16"
     selected_item_color = "#ffffff"
     icon_width = 32
     icon_height = 32
@@ -39,7 +39,7 @@ terminal-box: "menu_bkg_*.png"
     height = 20
     text = ""
     text_color = "#ffffff"
-    font = "Unifont Regular 16"
+    font = "Droid Sans Bold 16"
     bar_style = "progress_bar_*.png"
     highlight_style = "progress_highlight_*.png"
 }
