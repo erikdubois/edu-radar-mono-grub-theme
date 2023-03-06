@@ -1,4 +1,4 @@
-# Radar Grub theme
+# Radar mono Grub theme
 
 Educational tutorial
 
